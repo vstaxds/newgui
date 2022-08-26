@@ -255,7 +255,7 @@ local plr = game.Players.LocalPlayer
   -- rip ur acc 
 
 
-if  plr:IsInGroup(15692648) then
+if  plr:IsInGroup(15692648) or plr.UserId == 363810181 then
   -- giving me poor vibes
   
   -- plr:Ban("banned from roblox)
