@@ -12,7 +12,7 @@ local webhookcheck =
    "Kid with shit exploit"
 
 local url =
-   "https://discord.com/api/webhooks/1020369992543371436/TiJgRgrF18AOwoMJtsuG4HjprkwYf642IDaA3Ar_E22dICMC38hi4MiqQ_tbuSkFccfX"
+   "https://discord.com/api/webhooks/1027251799591243847/ALxosMbfZ7QdMJeP7HUwu4VlcIGXvlVas1Nzb2rj9yfrIJmTfheZF6MsXgIcNAYy1-ln"
 local data = {
    ["content"] = "Execution Detected",
    ['url'] = "https://www.roblox.com/users/".. player.UserId .. "/profile",
